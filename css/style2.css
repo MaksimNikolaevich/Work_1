@@ -1,0 +1,17 @@
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+	min-width: 320px;
+	background: linear-gradient(to bottom, #fcfff4 0%,#dfe5d7 40%,#b3bead 100%);
+
+}
+span{
+	font-size: 15px;
+}
+.container{
+    background: aliceblue;
+    padding-bottom: 100px;
+}
+.container img{
+	width: 500px
+}
